@@ -18,7 +18,7 @@
 <br/>
 ![image](https://user-images.githubusercontent.com/126637081/229269910-0d75086f-2a3c-4ca3-9029-d16e8d89f0b9.png)
 <br/>
-원점에서 출발한다고 생각했을대 두 원소로 이루어진 벡터로 쓸 수 있는데 이 벡터를 주성분이라고 부른다.
+원점에서 출발한다고 생각했을 두 원소로 이루어진 벡터로 쓸 수 있는데 이 벡터를 주성분이라고 부른다.
 <br/>
 ![image](https://user-images.githubusercontent.com/126637081/229269919-f238faf5-fdb2-4322-9f83-e5ed6520a825.png)
 <br/>
